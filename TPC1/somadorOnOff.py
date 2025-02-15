@@ -31,5 +31,7 @@ def somadorOnOff(l):
     if valor!=0 and on:
         acc+=valor
 
+    print(f"Final = {acc}")
+
 for line in sys.stdin:
     somadorOnOff(line)
