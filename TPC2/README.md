@@ -8,7 +8,7 @@
 
 ## Informações sobre o TPC2
 
-O TPC1 consistia em analisar um dataset de obras musicais e processá-lo de forma a ter os seguintes resultados:
+O TPC2 consistia em analisar um dataset de obras musicais e processá-lo de forma a ter os seguintes resultados:
 - Lista ordenada alfabeticamente dos compositores musicais;
 - Distribuição das obras por período: quantas obras catalogadas em cada período;
 - Dicionário em que a cada período está a associada uma lista alfabética dos títulos das obras desse período.
