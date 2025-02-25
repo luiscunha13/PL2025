@@ -1,0 +1,29 @@
+# Guia Turístico de Portugal
+
+## Principais Cidades
+
+Portugal é um país **fascinante** com uma história *rica* e paisagens deslumbrantes.
+
+### Lisboa
+
+Lisboa é a capital e maior cidade de Portugal. Conhecida por suas **colinas íngremes** e bondes históricos (*elétricos*).
+
+1. Visite o Castelo de São Jorge
+2. Explore o bairro de Alfama
+3. Aproveite os pastéis de Belém
+
+### Porto
+
+Porto é famosa pelo vinho do **Porto** e pela sua arquitetura *impressionante*.
+
+## Praias
+
+As praias portuguesas estão entre as mais **bonitas** da Europa.
+
+1. Algarve
+2. Costa Vicentina
+3. Nazaré
+
+Para mais informações, visite o [site oficial de turismo](https://www.visitportugal.com).
+
+![Paisagem de Portugal](https://example.com/portugal.jpg)
