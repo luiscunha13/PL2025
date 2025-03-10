@@ -1,0 +1,26 @@
+[
+  {
+    "cod": "A01",
+    "nome": "água 0.5L",
+    "quant": 8,
+    "preco": 0.7
+  },
+  {
+    "cod": "B02",
+    "nome": "coca cola 0.33L",
+    "quant": 5,
+    "preco": 1.5
+  },
+  {
+    "cod": "C03",
+    "nome": "palmier chocolate",
+    "quant": 6,
+    "preco": 0.75
+  },
+  {
+    "cod": "D04",
+    "nome": "croissant",
+    "quant": 2,
+    "preco": 0.9
+  }
+]
